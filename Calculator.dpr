@@ -1,5 +1,5 @@
 ﻿//------------------------------------------------------------------------------
-// PROJECT        : Peugeot Radio Code Calculator
+// PROJECT        : Renault Radio Code Calculator
 // VERSION        : 1.0
 // AUTHOR         : Ernst Reidinga (ERDesigns)
 // STATUS         : Open Source - Copyright © Ernst Reidinga
@@ -15,7 +15,7 @@ uses
 {$R *.res}
 
 const
-  Title: string = 'Peugeot Radio Code Calculator';
+  Title: string = 'Renault Radio Code Calculator';
 
 begin
   // Set the application title

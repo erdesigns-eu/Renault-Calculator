@@ -1,6 +1,6 @@
 ﻿//------------------------------------------------------------------------------
 // UNIT           : untMain.pas
-// CONTENTS       : Radio Code Calculator for Peugeot
+// CONTENTS       : Radio Code Calculator for Renault
 // VERSION        : 1.0
 // TARGET         : Embarcadero Delphi 11 or higher
 // AUTHOR         : Ernst Reidinga (ERDesigns)
@@ -153,7 +153,7 @@ end;
 procedure TfrmMain.btnAboutClick(Sender: TObject);
 const
   AboutText: string =
-    'Peugeot Radio Code Calculator'                                      + sLineBreak + sLineBreak +
+    'Renault Radio Code Calculator'                                      + sLineBreak + sLineBreak +
     'by Ernst Reidinga - ERDesigns'                                      + sLineBreak +
     'Version 1.0 (05/2024)'                                              + sLineBreak + sLineBreak +
     'Usage:'                                                             + sLineBreak +

@@ -2070,7 +2070,7 @@ object frmMain: TfrmMain
     BevelOuter = bvNone
     ShowCaption = False
     TabOrder = 0
-    ExplicitTop = 215
+    ExplicitTop = 218
     ExplicitWidth = 384
     object bvPnlLine: TBevel
       AlignWithMargins = True
@@ -2102,6 +2102,7 @@ object frmMain: TfrmMain
       Caption = 'btnAbout'
       TabOrder = 1
       OnClick = btnAboutClick
+      ExplicitLeft = 276
     end
     object btnCalculate: TButton
       AlignWithMargins = True
@@ -2118,6 +2119,7 @@ object frmMain: TfrmMain
       Default = True
       TabOrder = 0
       OnClick = btnCalculateClick
+      ExplicitLeft = 172
     end
   end
   object pnlSerialNumber: TPanel
@@ -2160,6 +2162,7 @@ object frmMain: TfrmMain
       CharCase = ecUpperCase
       MaxLength = 4
       TabOrder = 0
+      ExplicitWidth = 260
       ExplicitHeight = 23
     end
   end
@@ -2202,6 +2205,7 @@ object frmMain: TfrmMain
       Align = alClient
       ReadOnly = True
       TabOrder = 0
+      ExplicitWidth = 260
       ExplicitHeight = 23
     end
   end
